@@ -1,10 +1,10 @@
-![breakpoint list]()
+![breakpoint list](part3/Screenshot 2021-01-28 203612.png)
 
-![watch expressions]()
+![watch expressions](part3/Screenshot 2021-01-28 203859.png)
 
 The bug was that the number inputs were both strings, so they were concatenated instead of added. I fixed it by casting both to numbers by subtracting 0 from each.
 
-![fix]()
+![fix](part3/Screenshot 2021-01-28 204925.png)
 
 1. citylots.json
 2. part2.js
